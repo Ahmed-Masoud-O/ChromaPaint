@@ -1,0 +1,355 @@
+[
+  {
+    "points": [
+      {
+        "x": 212,
+        "y": 97,
+        "type": "point"
+      },
+      {
+        "x": 214,
+        "y": 92,
+        "type": "point"
+      },
+      {
+        "x": 220,
+        "y": 84,
+        "type": "point"
+      },
+      {
+        "x": 229,
+        "y": 79,
+        "type": "point"
+      },
+      {
+        "x": 241,
+        "y": 77,
+        "type": "point"
+      },
+      {
+        "x": 264,
+        "y": 78,
+        "type": "point"
+      },
+      {
+        "x": 287,
+        "y": 85,
+        "type": "point"
+      },
+      {
+        "x": 304,
+        "y": 99,
+        "type": "point"
+      },
+      {
+        "x": 312,
+        "y": 113,
+        "type": "point"
+      },
+      {
+        "x": 315,
+        "y": 127,
+        "type": "point"
+      },
+      {
+        "x": 315,
+        "y": 138,
+        "type": "point"
+      },
+      {
+        "x": 314,
+        "y": 146,
+        "type": "point"
+      },
+      {
+        "x": 307,
+        "y": 152,
+        "type": "point"
+      },
+      {
+        "x": 299,
+        "y": 157,
+        "type": "point"
+      },
+      {
+        "x": 291,
+        "y": 162,
+        "type": "point"
+      },
+      {
+        "x": 289,
+        "y": 165,
+        "type": "point"
+      },
+      {
+        "x": 288,
+        "y": 172,
+        "type": "point"
+      },
+      {
+        "x": 288,
+        "y": 181,
+        "type": "point"
+      },
+      {
+        "x": 290,
+        "y": 194,
+        "type": "point"
+      },
+      {
+        "x": 295,
+        "y": 210,
+        "type": "point"
+      },
+      {
+        "x": 304,
+        "y": 222,
+        "type": "point"
+      },
+      {
+        "x": 315,
+        "y": 229,
+        "type": "point"
+      },
+      {
+        "x": 327,
+        "y": 232,
+        "type": "point"
+      },
+      {
+        "x": 342,
+        "y": 232,
+        "type": "point"
+      },
+      {
+        "x": 357,
+        "y": 232,
+        "type": "point"
+      },
+      {
+        "x": 377,
+        "y": 232,
+        "type": "point"
+      },
+      {
+        "x": 394,
+        "y": 227,
+        "type": "point"
+      },
+      {
+        "x": 408,
+        "y": 218,
+        "type": "point"
+      },
+      {
+        "x": 418,
+        "y": 205,
+        "type": "point"
+      },
+      {
+        "x": 420,
+        "y": 189,
+        "type": "point"
+      },
+      {
+        "x": 419,
+        "y": 176,
+        "type": "point"
+      },
+      {
+        "x": 412,
+        "y": 161,
+        "type": "point"
+      },
+      {
+        "x": 392,
+        "y": 145,
+        "type": "point"
+      },
+      {
+        "x": 370,
+        "y": 135,
+        "type": "point"
+      },
+      {
+        "x": 358,
+        "y": 134,
+        "type": "point"
+      },
+      {
+        "x": 349,
+        "y": 135,
+        "type": "point"
+      },
+      {
+        "x": 339,
+        "y": 140,
+        "type": "point"
+      },
+      {
+        "x": 328,
+        "y": 148,
+        "type": "point"
+      },
+      {
+        "x": 315,
+        "y": 158,
+        "type": "point"
+      },
+      {
+        "x": 304,
+        "y": 167,
+        "type": "point"
+      },
+      {
+        "x": 294,
+        "y": 174,
+        "type": "point"
+      },
+      {
+        "x": 287,
+        "y": 179,
+        "type": "point"
+      },
+      {
+        "x": 279,
+        "y": 183,
+        "type": "point"
+      },
+      {
+        "x": 273,
+        "y": 185,
+        "type": "point"
+      },
+      {
+        "x": 267,
+        "y": 185,
+        "type": "point"
+      },
+      {
+        "x": 257,
+        "y": 184,
+        "type": "point"
+      },
+      {
+        "x": 245,
+        "y": 176,
+        "type": "point"
+      },
+      {
+        "x": 233,
+        "y": 168,
+        "type": "point"
+      },
+      {
+        "x": 226,
+        "y": 162,
+        "type": "point"
+      },
+      {
+        "x": 224,
+        "y": 159,
+        "type": "point"
+      },
+      {
+        "x": 224,
+        "y": 156,
+        "type": "point"
+      },
+      {
+        "x": 224,
+        "y": 153,
+        "type": "point"
+      },
+      {
+        "x": 226,
+        "y": 150,
+        "type": "point"
+      },
+      {
+        "x": 230,
+        "y": 144,
+        "type": "point"
+      },
+      {
+        "x": 235,
+        "y": 139,
+        "type": "point"
+      },
+      {
+        "x": 238,
+        "y": 137,
+        "type": "point"
+      },
+      {
+        "x": 239,
+        "y": 136,
+        "type": "point"
+      },
+      {
+        "x": 240,
+        "y": 136,
+        "type": "point"
+      }
+    ],
+    "type": "freehand",
+    "color": {
+      "value": -16777216,
+      "falpha": 0.0
+    }
+  },
+  {
+    "secondPoint": {
+      "x": 538,
+      "y": 138,
+      "type": "point"
+    },
+    "type": "line",
+    "basePoint": {
+      "x": 378,
+      "y": 47,
+      "type": "point"
+    },
+    "color": {
+      "value": -16777216,
+      "falpha": 0.0
+    }
+  },
+  {
+    "X": 98,
+    "Y": 191,
+    "x": 43,
+    "y": 118,
+    "P1": {
+      "x": 43,
+      "y": 118,
+      "type": "point"
+    },
+    "P2": {
+      "x": 116,
+      "y": 118,
+      "type": "point"
+    },
+    "P3": {
+      "x": 116,
+      "y": 191,
+      "type": "point"
+    },
+    "P4": {
+      "x": 43,
+      "y": 191,
+      "type": "point"
+    },
+    "length": 73,
+    "type": "square",
+    "basePoint": {
+      "x": 43,
+      "y": 118,
+      "type": "point"
+    },
+    "color": {
+      "value": -16777216,
+      "falpha": 0.0
+    }
+  }
+]
